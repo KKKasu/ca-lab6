@@ -141,6 +141,7 @@ public class LoggedInView extends JPanel implements ActionListener, PropertyChan
     }
 
     public void setLogoutController(LogoutController logoutController) {
+
         this.logoutController = logoutController;
     }
 }
