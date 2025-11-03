@@ -121,6 +121,7 @@ public class LoginView extends JPanel implements ActionListener, PropertyChangeL
         this.add(usernameInfo);
         this.add(usernameErrorField);
         this.add(passwordInfo);
+        this.add(passwordErrorField);
         this.add(buttons);
     }
 
